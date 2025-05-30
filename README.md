@@ -21,7 +21,7 @@ Information on Golbo can be found here: <a href="[]()" target="_blank">Zoolimino
 <p> </p>
   <h3>Info</h3>
   <p>the Golbo-dt (golbo desktop) is a desktop pet. it is a personal project used as a progress tracker for my coding portfolio. Programmed in Java by an absolute beginner over her college term</p>
-  <p>Code is open source, free to use with proper credit (you can link my github)</p>
+  <p>Code is open source, free to use with proper credit (you can link my github) and keep my donation link in.</p>
 <p>This is considered an unofficial fan project of the Zooliminology project, so shout out to QuietJay and their team for letting me do this with their son.</p>
   <p>Based on the Zooliminology project: <a href="https://www.tumblr.com/zooliminology/729461379664314368/about-zooliminology-zooliminology-is-a-project?source=share">Zooliminology Tumblr</a></p>
   <p><a href="https://zooliminology.wixsite.com/zoolim/courses-1/golbo">Zooliminology official website</p>
